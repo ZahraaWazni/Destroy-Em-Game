@@ -76,7 +76,3 @@ git clone <project-url>
 
 
 ## This project was created for educational purposes and has no commercial use.
-
-Open the project with Unity Hub.
-
-Run the main scene to start playing.
