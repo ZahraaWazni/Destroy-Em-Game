@@ -3,6 +3,7 @@
 Destroy'em is a video game developed as part of our university integrator project.
 It was created by a team of 9 students.
 
+The project is here : https://git.unistra.fr/brichert/projet_integrateur_2b/-/tree/beta_version?ref_type=heads 
 
 # My Role
 
